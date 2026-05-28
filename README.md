@@ -1,1 +1,2 @@
 # agrinho-2026
+Este site funciona como um portfólio digital moderno e minimalista, ideal para centralizar e apresentar sua trajetória profissional. Na seção inicial, há uma área de destaque para uma breve introdução sobre quem você é e seus principais objetivos. Logo abaixo, o layout exibe um mural flexível e organizado para destacar seus melhores projetos ou serviços. Por fim, a página conta com um rodapé dedicado para informações de contato e redes sociais, garantindo uma navegação fluida e totalmente adaptável em qualquer tamanho de tela.
